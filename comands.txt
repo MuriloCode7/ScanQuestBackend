@@ -23,3 +23,12 @@
 20: yarn add cors
 21: yarn add @types/cors
 22: yarn add rate-limiter-flexible
+23: yarn add ioredis
+24: yarn add @types/ioredis
+25: yarn add jsonwebtoken
+26: yarn add @types/jsonwebtoken
+27: yarn add multer
+28: yarn add @types/multer
+29: yarn add crypto
+30: yarn add ts-node-dev
+31: npm install --save-dev tsconfig-paths
